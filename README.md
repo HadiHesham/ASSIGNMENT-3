@@ -8,3 +8,5 @@ hadi took an appointment with Mai aince she had no appointment at 7:30 and Mai i
 I then sorted my customers array which contained info about customer and their appointment times inascending order of appointment times and i filtered out any customer who had their appointment cancelled like omar
 Lastly, I enqueued all my customers names, appointment times and assigned mechanic names into my circular queue so my queue was sorted in asscending order of appointment times.
 Lastly, i displayed the circular queue elements
+
+Dr, the queue template class didnt want to work in the main unless all of the class is in 1 file including the implementation of functions. I tried so much in it but it didnt work and it didnt also work for many of my colleagues. I just wanted to inform you that I know how to create cpp file and header file for each class and include them in main. However, it does not work for template classes.
